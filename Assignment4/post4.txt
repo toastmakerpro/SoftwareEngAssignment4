@@ -1,0 +1,6 @@
+PostID = 4
+Title = TitleWithAtLeast10Chars
+Body = This has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 characteThis has 60 charactellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllThis has 60 characteThis has 60 characteThThis has 60 characteThis has 60 characteTh
+Tags = tag tag2 tag3 
+Difficulty = Easy
+Urgency = Ordinary
